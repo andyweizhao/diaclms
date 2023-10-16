@@ -14,24 +14,24 @@ We will select the top-three term papers at the end of the course.
 
 ## Program Schedule
 
-| Date       | Topics                            | Fields       | Presenters     | References |
+| Date       | Topics                            | Disciplines       | Presenters     | References |
 |------------|-----------------------------------|----------------|----------------|------------|
-| 17/10/2023 | Language change & language models    |   Linguistics/NLP             | Wei Zhao       |            |
-| 24/10/2023 | Speed of linguistic changes       | Linguistics    |                |            |            
-| 31/10/2023 | Grammaticalization                | Linguistics    |                |            |            
-| 07/11/2023 | Syntactic change                  | Linguistics    |                |            |
+| 17/10/2023 | Language change & language models    |   CL             | Wei Zhao       |            |
+| 24/10/2023 | Speed of linguistic changes       | HL    |                |            |            
+| 31/10/2023 | Grammaticalization                | HL    |                |            |            
+| 07/11/2023 | Syntactic change                  | HL    |                |            |
 | 14/11/2023 | No seminar (GaML 2023)            |                |                |            |
-| 21/11/2023 |                                   | Linguistics    |                |            |
-| 28/11/2023 | Large language models             | NLP            |                |            |
+| 21/11/2023 | Large language models             | NLP    |                |            |
+| 28/11/2023 | Diachronic language models        | NLP            |                |            |
 | 05/12/2023 | No seminar (EMNLP 2023)           |                |                |            |
-| 12/12/2023 | Semantic change detection         | CL             | Guest lecture  |            |
-| 19/12/2023 | Diachronic language models         | NLP            |                |            |
+| 12/12/2023 | Guest lecture on semantic change  | CL             | Dominik Schlechtweg  |  No need          |
+| 19/12/2023 | Semantic change detection         | NLP            |                |            |
 | Winter Break                                   |                |                |            |
-| 09/01/2024 | Temporal misinformation detection | CSS             |                |            |
-| 16/01/2024 | Reconstruction of historical texts| NLP            |                |            |
-| 23/01/2024 | Temporal machine translation       | NLP            |                |            |
-| 30/01/2024 | Syntactic change detection         | CL             |                |            |
-| 06/02/2024 | Temporal text summarization        | NLP            |                |            |
+| 09/01/2024 | Syntactic change detection | CL             |                |            |
+| 16/01/2024 | Temporal machine translation| NLP            |                |            |
+| 23/01/2024 | Temporal text summarization       | NLP            |                |            |
+| 30/01/2024 | Reconstruction of historical texts         | NLP             |                |            |
+| 06/02/2024 | Temporal misinformation detection        | CSS            |                |            |
 
 
 ## References 
