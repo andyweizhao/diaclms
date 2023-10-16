@@ -9,7 +9,7 @@ This seminar series takes place at Heidelberg University on Tuesdays from 15:15 
 ## Language
 The seminar will be held in English.
 
-## Best term papers
+## Best Term Papers
 We will select the top-three term papers at the end of the course.
 
 ## Program Schedule
