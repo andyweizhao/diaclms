@@ -16,8 +16,9 @@ In each lecture, there will be two presentations that cover the same topic, but 
 
 ## Useful Links
 - Join us at Discord: https://discord.gg/PpwbcYyX
-- Fill out time slots for presentations https://shorturl.at/hRZ01 
+- Fill out time slots for presentations: https://shorturl.at/hRZ01 
 - Topic voting for term papers: https://forms.gle/PxJeRZGfftZei4qE9
+- Course webpage at Uni Heidelberg: https://www.cl.uni-heidelberg.de/courses/ws23/diaclms/ 
 
 ## Language
 The seminar will be held in English.
