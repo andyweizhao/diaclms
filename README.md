@@ -6,6 +6,9 @@ The rise of large language models such as ChatGPT marks a moment that seems to b
 
 This seminar series takes place at Heidelberg University on Tuesdays from 15:15 to 16:45, in INF 325 / SR 24 during the winter seminster of 2023.
 
+## Organization
+In each lecture, there will be two presentations that cover the same topic, but each presenter should choose a different paper or a textbook chapter to prepare his/her presentation. Please make sure to mark your selected papers/chapters in "References" when blocking your time slots.
+
 ## Useful Links
 - Join us at Discord: https://discord.gg/PpwbcYyX
 - Fill out time slots for presentations https://shorturl.at/hRZ01 
@@ -96,3 +99,6 @@ We will select the top-three term papers at the end of the course.
   - L3 Principles of Linguistic Change, Volume 2: Social factors
   - L4 Principles of linguistic change, volume 3: Cognitive and cultural factors
 - [ACL Anthology: A freely available database for CL and NLP Publications](https://aclanthology.org/)
+
+## Deadlines:
+- 
