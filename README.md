@@ -85,3 +85,9 @@ We will select the top-three term papers at the end of the course.
   - Temporal Graph Analysis of Misinformation Spreaders in Social Media
   - Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection
   - Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
+- Theory of language change
+  - [Revisiting the five foundational problems of Weinreich, Labov & Herzog (1968)](DiaCom_problems_ABreitba_R1.pdf)
+  - Principles of linguistic change, volume 1: Internal factors
+  - Principles of Linguistic Change, Volume 2: Social factors
+  - Principles of linguistic change, volume 3: Cognitive and cultural factors
+- [ACL Anthology: A freely available database for CL and NLP Publications](https://aclanthology.org/)
