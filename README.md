@@ -100,7 +100,8 @@ We will select the top-three term papers at the end of the course.
   - L4 Principles of linguistic change, volume 3: Cognitive and cultural factors
 - [ACL Anthology: A freely available database for CL and NLP Publications](https://aclanthology.org/)
 
-## Submission Deadlines:
+## Submission Deadlines
+
 - Term paper (preliminary version): 12, March, 2024 (not mandatory)
 - Term paper (final version): 19, March, 2024
 - Presentation slides: Tuesdays at 12:00
