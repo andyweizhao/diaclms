@@ -9,6 +9,11 @@ This seminar series takes place at Heidelberg University on Tuesdays from 15:15 
 ## Organization
 In each lecture, there will be two presentations that cover the same topic, but each presenter should choose a different paper or a textbook chapter to prepare his/her presentation. Please make sure to mark your selected papers/chapters in "References" when blocking your time slots.
 
+## Office Hours
+- Monday 13:00 - 14:00
+- Friday 13.00 - 14:00
+- You will receive timely feedback from us through email and Discord during the office hours.
+
 ## Useful Links
 - Join us at Discord: https://discord.gg/PpwbcYyX
 - Fill out time slots for presentations https://shorturl.at/hRZ01 
