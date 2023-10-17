@@ -6,6 +6,11 @@ The rise of large language models such as ChatGPT marks a moment that seems to b
 
 This seminar series takes place at Heidelberg University on Tuesdays from 15:15 to 16:45, in INF 325 / SR 24 during the winter seminster of 2023.
 
+## Useful Links
+- Join us at Discord: https://discord.gg/PpwbcYyX
+- Fill out time slots for presentations https://shorturl.at/hRZ01 
+- Vote on each topic for term papers: https://forms.gle/PxJeRZGfftZei4qE9
+
 ## Language
 The seminar will be held in English.
 
