@@ -16,7 +16,7 @@ We will select the top-three term papers at the end of the course.
 
 | Date       | Topics                            | Disciplines       | Presenters     | References |
 |------------|-----------------------------------|----------------|----------------|------------|
-| 17/10/2023 | Language change & language models    |   CL             | Wei Zhao       |            |
+| 17/10/2023 | Language change & language models    |   CL             | Wei Zhao       |   L1         |
 | 24/10/2023 | Speed of linguistic changes       | HL    |                |            |            
 | 31/10/2023 | Grammaticalization                | HL    |                |            |            
 | 07/11/2023 | Syntactic change                  | HL    |                |            |
@@ -37,57 +37,57 @@ We will select the top-three term papers at the end of the course.
 ## References 
 
 - Speed of linguistic changes
-  - [Dialect contact and the speed of Jespersen’s cycle in Middle Low German](https://www.aup-online.com/docserver/fulltext/00398691/66/1/01_TET2014.1.BREI.pdf?expires=1697231538&id=id&accname=guest&checksum=51C6AE8362F81C2A8C1329C0A71AD253 )
-  - [The Determinants of Diachronic Stability](https://www.google.de/books/edition/The_Determinants_of_Diachronic_Stability/knWODwAAQBAJ?hl=de&gbpv=1&dq=The+determinants+of+diachronic+stability&printsec=frontcover)
+  A1 [Dialect contact and the speed of Jespersen’s cycle in Middle Low German](https://www.aup-online.com/docserver/fulltext/00398691/66/1/01_TET2014.1.BREI.pdf?expires=1697231538&id=id&accname=guest&checksum=51C6AE8362F81C2A8C1329C0A71AD253 )
+  A2 [The Determinants of Diachronic Stability](https://www.google.de/books/edition/The_Determinants_of_Diachronic_Stability/knWODwAAQBAJ?hl=de&gbpv=1&dq=The+determinants+of+diachronic+stability&printsec=frontcover)
 - Syntactic change
-  - Complexity as L2-difficulty: Implications for syntactic change
-  - [Syntactic change: A Minimalist Approach to Grammaticalization](/attachments/RobRou2003.pdf)
+  B1 Complexity as L2-difficulty: Implications for syntactic change
+  B2 [Syntactic change: A Minimalist Approach to Grammaticalization](/attachments/RobRou2003.pdf)
 - Grammaticalization
-  - [Introduction to Grammaticalization](/attachments/Heine2003_Grammaticalization.pdf)
-  - What is it then, this Grammaticalization?
-  - The Formal Semantics of Grammaticalization
-  - What counts as (an instance of) grammaticalization?
-  - Information-based Modeling of Diachronic Linguistic Change: from Typicality to Productivity
+  C1 [Introduction to Grammaticalization](/attachments/Heine2003_Grammaticalization.pdf)
+  C2 What is it then, this Grammaticalization?
+  C3 The Formal Semantics of Grammaticalization
+  C4 What counts as (an instance of) grammaticalization?
+  C5 Information-based Modeling of Diachronic Linguistic Change: from Typicality to Productivity
 - Diachronic language models
-  - Dynamic Word Embeddings
-  - Contextualized diachronic word representations
-  - Dynamic Contextualized Word Embeddings
+  D1 Dynamic Word Embeddings
+  D2 Contextualized diachronic word representations
+  D3 Dynamic Contextualized Word Embeddings
 - Large language models
-  - A survey on evaluation of large language models
-  - A Survey of Large Language Models
-  - Chatgpt: A meta-analysis after 2.5 months
+  E1 A survey on evaluation of large language models
+  E2 A Survey of Large Language Models
+  E3 Chatgpt: A meta-analysis after 2.5 months
 - Semantic change detection
-  - Diachronic word embeddings and semantic shifts: a survey
-  - Outta Control: Laws of Semantic Change and Inherent Biases in Word Representation Models
-  - “Cultural shift or linguistic drift? comparing two computational models of semantic change
-  - Diachronic word embeddings reveal statistical laws of semantic change
-  - Grammar and meaning: Analysing the topology of diachronic word embeddings
-  - What about Grammar? Using BERT Embeddings to Explore Functional-Semantic Shifts of Semi-Lexical and Grammatical Constructions
-  - Linguistic Variation and Change in 250 Years of English Scientific Writing: A Data-Driven Approach
+  F1 Diachronic word embeddings and semantic shifts: a survey
+  F2 Outta Control: Laws of Semantic Change and Inherent Biases in Word Representation Models
+  F3 “Cultural shift or linguistic drift? comparing two computational models of semantic change
+  F4 Diachronic word embeddings reveal statistical laws of semantic change
+  F5 Grammar and meaning: Analysing the topology of diachronic word embeddings
+  F6 What about Grammar? Using BERT Embeddings to Explore Functional-Semantic Shifts of Semi-Lexical and Grammatical Constructions
+  F7 Linguistic Variation and Change in 250 Years of English Scientific Writing: A Data-Driven Approach
 - Syntactic change detection
-  - Tracing Syntactic Change in the Scientific Genre
-  - Detecting Syntactic Change Using a Neural Part-of-Speech Tagger
-  - Stability of Syntactic Dialect Classification over Space and Time
-  - Exploring morphosyntactic variation and change with Distributional Semantic Models
-  - Using distributional semantics to study syntactic productivity in diachrony: A case study
+  G1 Tracing Syntactic Change in the Scientific Genre
+  G2 Detecting Syntactic Change Using a Neural Part-of-Speech Tagger
+  G3 Stability of Syntactic Dialect Classification over Space and Time
+  G4 Exploring morphosyntactic variation and change with Distributional Semantic Models
+  G5 Using distributional semantics to study syntactic productivity in diachrony: A case study
 - Temporal text summarization
-  - Incremental temporal summarization in multi-party meetings
-  - Improving ROUGE for Timeline Summarization
-  - An Evaluation Corpus For Temporal Summarization
-  - Context or No Context? A preliminary exploration of human-in-the-loop approach for Incremental Temporal Summarization in meetings
+  H1 Incremental temporal summarization in multi-party meetings
+  H2 Improving ROUGE for Timeline Summarization
+  H3 An Evaluation Corpus For Temporal Summarization
+  H4 Context or No Context? A preliminary exploration of human-in-the-loop approach for Incremental Temporal Summarization in meetings
 - Temporal machine translation
-  - A Machine Translation Approach for Modernizing Historical Documents Using Backtranslation
+  I1 A Machine Translation Approach for Modernizing Historical Documents Using Backtranslation
 - Reconstructon of historical manuscripts
-  - Reconstructing ancient literary texts from noisy manuscripts
-  - Restoring and attributing ancient texts using deep neural networks
-  - Machine Learning for Ancient Languages: A Survey
+  J1 Reconstructing ancient literary texts from noisy manuscripts
+  J2 Restoring and attributing ancient texts using deep neural networks
+  J3 Machine Learning for Ancient Languages: A Survey
 - Social Science
-  - Temporal Graph Analysis of Misinformation Spreaders in Social Media
-  - Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection
-  - Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
+  K1 Temporal Graph Analysis of Misinformation Spreaders in Social Media
+  K2 Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection
+  K3 Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
 - Theory of language change
-  - [Revisiting the five foundational problems of Weinreich, Labov & Herzog (1968)](DiaCom_problems_ABreitba_R1.pdf)
-  - Principles of linguistic change, volume 1: Internal factors
-  - Principles of Linguistic Change, Volume 2: Social factors
-  - Principles of linguistic change, volume 3: Cognitive and cultural factors
+  L1 [Revisiting the five foundational problems of Weinreich, Labov & Herzog (1968)](DiaCom_problems_ABreitba_R1.pdf)
+  L2 Principles of linguistic change, volume 1: Internal factors
+  L3 Principles of Linguistic Change, Volume 2: Social factors
+  L4 Principles of linguistic change, volume 3: Cognitive and cultural factors
 - [ACL Anthology: A freely available database for CL and NLP Publications](https://aclanthology.org/)
