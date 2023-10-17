@@ -12,7 +12,7 @@ In each lecture, there will be two presentations that cover the same topic, but 
 ## Useful Links
 - Join us at Discord: https://discord.gg/PpwbcYyX
 - Fill out time slots for presentations https://shorturl.at/hRZ01 
-- Vote on each topic for term papers: https://forms.gle/PxJeRZGfftZei4qE9
+- Topic voting for term papers: https://forms.gle/PxJeRZGfftZei4qE9
 
 ## Language
 The seminar will be held in English.
@@ -100,5 +100,10 @@ We will select the top-three term papers at the end of the course.
   - L4 Principles of linguistic change, volume 3: Cognitive and cultural factors
 - [ACL Anthology: A freely available database for CL and NLP Publications](https://aclanthology.org/)
 
-## Deadlines:
-- 
+## Submission Deadlines:
+- Term paper (preliminary version): 12, March, 2024 (not mandatory)
+- Term paper (final version): 19, March, 2024
+- Presentation slides: Tuesdays at 12:00
+- Paper review & questions: Tuesdays at 12:00
+- Block time slots for presentations: 20, October, 2023 (at least for presentations in the first few weeks)
+- Topic voting for term papers: 24, October, 2023 (Can be extended if needed)
