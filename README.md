@@ -31,12 +31,12 @@ We will select the top-three term papers at the end of the course.
 | Date       | Topics                            | Disciplines       | Presenters     | References |
 |------------|-----------------------------------|----------------|----------------|------------|
 | 17/10/2023 | [Language change & language models](/attachments/01_pdf.pdf)    |   CL             | Wei Zhao       |   L1         |
-| 24/10/2023 | Speed of linguistic changes       | HL    |                |            |            
+| 24/10/2023 | Speed of linguistic change       | HL    |                |            |            
 | 31/10/2023 | Grammaticalization                | HL    |                |            |            
 | 07/11/2023 | Syntactic change                  | HL    |                |            |
 | 14/11/2023 | No seminar (GaML 2023)            |                |                |            |
-| 21/11/2023 | Large language models             | NLP    |                |            |
-| 28/11/2023 | Diachronic language models        | NLP            |                |            |
+| 21/11/2023 | Large language model             | NLP    |                |            |
+| 28/11/2023 | Diachronic language model        | NLP            |                |            |
 | 05/12/2023 | No seminar (EMNLP 2023)           |                |                |            |
 | 12/12/2023 | Guest lecture on semantic change  | CL             | Dominik Schlechtweg  |  No need          |
 | 19/12/2023 | Semantic change detection         | NLP            |                |            |
@@ -44,13 +44,13 @@ We will select the top-three term papers at the end of the course.
 | 09/01/2024 | Syntactic change detection | CL             |                |            |
 | 16/01/2024 | Temporal machine translation| NLP            |                |            |
 | 23/01/2024 | Temporal text summarization       | NLP            |                |            |
-| 30/01/2024 | Reconstruction of historical texts         | NLP             |                |            |
+| 30/01/2024 | Reconstruction of historical text         | NLP             |                |            |
 | 06/02/2024 | Temporal misinformation detection        | CSS            |                |            |
 
 
 ## References 
 
-- Speed of linguistic changes
+- Speed of linguistic change
   - A1 [Dialect contact and the speed of Jespersen’s cycle in Middle Low German](https://www.aup-online.com/docserver/fulltext/00398691/66/1/01_TET2014.1.BREI.pdf?expires=1697231538&id=id&accname=guest&checksum=51C6AE8362F81C2A8C1329C0A71AD253 )
   - A2 [The Determinants of Diachronic Stability](https://www.google.de/books/edition/The_Determinants_of_Diachronic_Stability/knWODwAAQBAJ?hl=de&gbpv=1&dq=The+determinants+of+diachronic+stability&printsec=frontcover)
 - Syntactic change
@@ -62,11 +62,11 @@ We will select the top-three term papers at the end of the course.
   - C3 The Formal Semantics of Grammaticalization
   - C4 What counts as (an instance of) grammaticalization?
   - C5 Information-based Modeling of Diachronic Linguistic Change: from Typicality to Productivity
-- Diachronic language models
+- Diachronic language model
   - D1 Dynamic Word Embeddings
   - D2 Contextualized diachronic word representations
   - D3 Dynamic Contextualized Word Embeddings
-- Large language models
+- Large language model
   - E1 A survey on evaluation of large language models
   - E2 A Survey of Large Language Models
   - E3 Chatgpt: A meta-analysis after 2.5 months
