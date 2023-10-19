@@ -37,7 +37,7 @@ We will select the top-three term papers at the end of the course.
 | 14/11/2023 | No seminar (GaML 2023)            |                |                |            |
 | 21/11/2023 | Large language model             | NLP    |                |            |
 | 28/11/2023 | Diachronic language model        | NLP            |                |            |
-| 05/12/2023 | No seminar (EMNLP 2023)           |                |                |            |
+| 05/12/2023 | No seminar (EMNLP 2023) |NLP             |                |            |
 | 12/12/2023 | Guest lecture on semantic change  | CL             | Dominik Schlechtweg  |  No need          |
 | 19/12/2023 | Semantic change detection         | NLP            |                |            |
 | Winter Break                                   |                |                |            |
@@ -108,8 +108,8 @@ We will select the top-three term papers at the end of the course.
 - [ACL Anthology: A freely available database for CL and NLP Publications](https://aclanthology.org/)
 - The Science of prompt engineering
   - M1 Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
-  - M2 https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
-  - M3 https://www.promptingguide.ai/
+  - M2 [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+  - M3 [Prompt Engineering Guide](https://www.promptingguide.ai/)
 ## Submission Deadlines
 
 - Term paper (preliminary version): 12, March, 2024 (not mandatory)
