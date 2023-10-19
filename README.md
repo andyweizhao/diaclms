@@ -54,7 +54,7 @@ We will select the top-three term papers at the end of the course.
   - A1 [Dialect contact and the speed of Jespersen’s cycle in Middle Low German](https://www.aup-online.com/docserver/fulltext/00398691/66/1/01_TET2014.1.BREI.pdf?expires=1697231538&id=id&accname=guest&checksum=51C6AE8362F81C2A8C1329C0A71AD253 )
   - A2 [The Determinants of Diachronic Stability](https://www.google.de/books/edition/The_Determinants_of_Diachronic_Stability/knWODwAAQBAJ?hl=de&gbpv=1&dq=The+determinants+of+diachronic+stability&printsec=frontcover)
   - A3 Sociolinguistic typology and the speed of linguistic change
-  - A4 [Is the rate of linguistic change constant?](/attachments/is_rlc_constant)
+  - A4 [Is the rate of linguistic change constant?](/attachments/is_rlc_constant.pdf)
 - Syntactic change
   - B1 Complexity as L2-difficulty: Implications for syntactic change
   - B2 [Syntactic change: A Minimalist Approach to Grammaticalization](/attachments/RobRou2003.pdf)
