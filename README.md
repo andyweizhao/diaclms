@@ -100,13 +100,16 @@ We will select the top-three term papers at the end of the course.
   - K1 Temporal Graph Analysis of Misinformation Spreaders in Social Media
   - K2 Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection
   - K3 Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
-- Theory of language change
+- The Theory of language change
   - L1 [Revisiting the five foundational problems of Weinreich, Labov & Herzog (1968)](DiaCom_problems_ABreitba_R1.pdf)
   - L2 Principles of linguistic change, volume 1: Internal factors
   - L3 Principles of Linguistic Change, Volume 2: Social factors
   - L4 Principles of linguistic change, volume 3: Cognitive and cultural factors
 - [ACL Anthology: A freely available database for CL and NLP Publications](https://aclanthology.org/)
-
+- The Science of prompt engineering
+  - M1 Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
+  - M2 https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+  - M3 https://www.promptingguide.ai/
 ## Submission Deadlines
 
 - Term paper (preliminary version): 12, March, 2024 (not mandatory)
