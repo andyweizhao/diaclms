@@ -58,6 +58,7 @@ We will select the top-three term papers at the end of the course.
 - Syntactic change
   - B1 Complexity as L2-difficulty: Implications for syntactic change
   - B2 [Syntactic change: A Minimalist Approach to Grammaticalization](/attachments/RobRou2003.pdf)
+  - B3 [Introduction to syntactic change](https://web.stanford.edu/~kiparsky/Papers/kroch01.pdf)
 - Grammaticalization
   - C1 [Introduction to Grammaticalization](/attachments/Heine2003_Grammaticalization.pdf)
   - C2 What is it then, this Grammaticalization?
