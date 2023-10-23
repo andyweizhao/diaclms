@@ -47,6 +47,7 @@ We will select the top-three term papers at the end of the course.
 | 30/01/2024 | Reconstruction of historical text         | NLP             |                |            |
 | 06/02/2024 | Temporal misinformation detection        | CSS            |                |            |
 
+**Note that this timetable will be updated once a week on the day after a weekly lecture ends. Please refer to [the spreedsheet](https://shorturl.at/hRZ01) for ongoing updates (incl., papers to-be-read) when you want to write a paper review and prepare questions.**
 
 ## References 
 
