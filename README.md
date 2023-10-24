@@ -31,7 +31,7 @@ We will select the top-three term papers at the end of the course.
 | Date       | Topics                            | Disciplines       | Presenters     | References |
 |------------|-----------------------------------|----------------|----------------|------------|
 | 17/10/2023 | [Language change & language models](/attachments/01_pdf.pdf)    |   CL             | Wei Zhao       |   L1         |
-| 24/10/2023 | Speed of linguistic change       | HL    |                |            |            
+| 24/10/2023 | [Speed and types of linguistic change](/attachments/02_pdf.pdf)       | HL    |      Wei Zhao          |   A3         |            
 | 31/10/2023 | Grammaticalization                | HL    |                |            |            
 | 07/11/2023 | Syntactic change                  | HL    |                |            |
 | 14/11/2023 | No seminar (GaML 2023)            |                |                |            |
