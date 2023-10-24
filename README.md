@@ -51,6 +51,8 @@ We will select the top-three term papers at the end of the course.
 
 ## References 
 
+**Note that papers without provided links are freely accessible on the Internet. For papers that are not publicaly avaiable, we download these papers and provide the links to them.** 
+
 - Speed of linguistic change
   - A1 [Dialect contact and the speed of Jespersen’s cycle in Middle Low German](https://www.aup-online.com/docserver/fulltext/00398691/66/1/01_TET2014.1.BREI.pdf?expires=1697231538&id=id&accname=guest&checksum=51C6AE8362F81C2A8C1329C0A71AD253 )
   - A2 [The Determinants of Diachronic Stability](https://www.google.de/books/edition/The_Determinants_of_Diachronic_Stability/knWODwAAQBAJ?hl=de&gbpv=1&dq=The+determinants+of+diachronic+stability&printsec=frontcover)
