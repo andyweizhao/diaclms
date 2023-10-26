@@ -64,7 +64,7 @@ We will select the top-three term papers at the end of the course.
   - B3 [Introduction to syntactic change](https://web.stanford.edu/~kiparsky/Papers/kroch01.pdf)
 - Grammaticalization
   - C1 [Introduction to Grammaticalization](/attachments/Heine2003_Grammaticalization.pdf)
-  - C2 What is it then, this Grammaticalization?
+  - C2 [What is it then, this Grammaticalization?](/attachments/What_is_it_then_this_grammaticalization.pdf)
   - C3 The Formal Semantics of Grammaticalization
   - C4 What counts as (an instance of) grammaticalization?
   - C5 Information-based Modeling of Diachronic Linguistic Change: from Typicality to Productivity
