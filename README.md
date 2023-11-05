@@ -34,7 +34,7 @@ We will select the top-three term papers at the end of the course.
 | 24/10/2023 | [Speed and types of linguistic change](/attachments/02_pdf.pdf)       | HL    |      Wei Zhao          |   A3         |            
 | 31/10/2023 | Grammaticalization: [Part 1](/attachments/C1_Melis_Çelikkol.pdf) [Part 2](/attachments/C2_Lydia_Korber.pdf) | HL    |  Melis Çelikkol, Lydia Körber |  C1, C2          | 
 | 31/10/2023 | [Mini-lecture on Paper Review Writing](/attachments/mini-lec01.pdf) | -    |  Wei Zhao |  -          |
-| 07/11/2023 | Guest lecture (topics to be determined)                  | -    |                |    No need        |
+| 07/11/2023 | Guest lecture on language models                  | NLP    |      Maxime Peyrard          |    No need        |
 | 14/11/2023 | No seminar (GaML 2023)            |                |                |            |
 | 21/11/2023 | Large language model             | NLP    |                |            |
 | 28/11/2023 | Diachronic language model        | NLP            |                |            |
