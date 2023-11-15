@@ -39,8 +39,8 @@ We will select the top-three term papers at the end of the course.
 | 21/11/2023 | Large language model             | NLP    |                |            |
 | 28/11/2023 | Diachronic language model        | NLP            |                |            |
 | 05/12/2023 | No seminar (EMNLP 2023) |NLP             |                |            |
-| 12/12/2023 | Guest lecture on semantic change  | CL             | Dominik Schlechtweg  |  No need          |
-| 19/12/2023 | Semantic change detection         | NLP            |                |            |
+| 12/12/2023 | Semantic change detection  | NLP             |   |            |
+| 19/12/2023 | Guest lecture on semantic change         | CL            |  Dominik Schlechtweg              |       No need     |
 | Winter Break                                   |                |                |            |
 | 09/01/2024 | Syntactic change detection | CL             |                |            |
 | 16/01/2024 | Temporal machine translation| NLP            |                |            |
