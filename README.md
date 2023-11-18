@@ -73,6 +73,7 @@ We will select the top-three term papers at the end of the course.
   - D1 Dynamic Word Embeddings
   - D2 Contextualized diachronic word representations
   - D3 Dynamic Contextualized Word Embeddings
+  - D4 Are Large Language Models Temporally Grounded
 - Large language model
   - E1 A survey on evaluation of large language models
   - E2 A Survey of Large Language Models
