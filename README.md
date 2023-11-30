@@ -37,7 +37,7 @@ We will select the top-three term papers at the end of the course.
 | 07/11/2023 | Guest lecture on language models: [Part 1](/attachments/ilm.pdf) [Part 2](/attachments/bygpt5.pdf)                  | NLP    |      Maxime Peyrard, Jonas Belouadi         |    No need        |
 | 14/11/2023 | No seminar (GaML 2023)            |                |                |            |
 | 21/11/2023 | Large language model:  [Part 1](/attachments/E2_Ke_Ren.pdf)  [Part 2](/attachments/E3_WenzhuoChen.pdf)           | NLP    |     Ke Ren, Wenzhuo Chen           |   E2,E3         |
-| 28/11/2023 | Diachronic language model: [Part 1](/attachments/Chenpei.pdf)       | NLP            |      Siqi He, Chenpei Xie          |            |
+| 28/11/2023 | Diachronic language model: [Part 1](/attachments/Chenpei.pdf)       | NLP            |      Siqi He, Chenpei Xie          |    D4, D5        |
 | 05/12/2023 | Prompt engineering for large language model and guest lecture on language model evaluation |NLP             |                |            |
 | 12/12/2023 | Semantic change detection  | NLP             |   |            |
 | 19/12/2023 | Guest lecture on semantic change         | CL            |  Dominik Schlechtweg              |       No need     |
@@ -74,6 +74,7 @@ We will select the top-three term papers at the end of the course.
   - D2 Contextualized diachronic word representations
   - D3 Dynamic Contextualized Word Embeddings
   - D4 Are Large Language Models Temporally Grounded
+  - D5 Diachronic word embeddings and semantic shifts: a survey
 - Large language model
   - E1 A survey on evaluation of large language models
   - E2 A Survey of Large Language Models
