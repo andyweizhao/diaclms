@@ -36,9 +36,9 @@ We will select the top-three term papers at the end of the course.
 | 31/10/2023 | [Mini-lecture on Paper Review Writing](/attachments/mini-lec01.pdf) | -    |  Wei Zhao |  -          |
 | 07/11/2023 | Guest lecture on language models: [Part 1](/attachments/ilm.pdf) [Part 2](/attachments/bygpt5.pdf)                  | NLP    |      Maxime Peyrard, Jonas Belouadi         |    No need        |
 | 14/11/2023 | No seminar (GaML 2023)            |                |                |            |
-| 21/11/2023 | Large language model:  [Part 1](/attachments/E2_Ke_Ren.pdf)  [Part 2](/attachments/E3_WenzhuoChen.pdf)           | NLP    |     Ke Ren, Wenzhuo Chen           |   E2,E3         |
+| 21/11/2023 | Large language model:  [Part 1](/attachments/E2_Ke_Ren.pdf)  [Part 2](/attachments/E3_WenzhuoChen.pdf)           | NLP    |     Ke Ren, Wenzhuo Chen           |   E2, E3         |
 | 28/11/2023 | Diachronic language model: [Part 1](/attachments/Chenpei.pdf) [Part 2](/attachments/siqi_he.pdf)      | NLP            |      Siqi He, Chenpei Xie          |    D4, D5        |
-| 05/12/2023 | Prompt engineering for large language model and guest lecture on language model |NLP             |                |            |
+| 05/12/2023 | Prompt engineering for large language model and guest lecture on language model [Part 1](/attachments/prompting_slides_Veerav_Chebrolu.pdf) |NLP             |    Veerav Chebrolu, Hans Martin Ramsl, Xiran Hu|   M1, M4         |
 | 12/12/2023 | Semantic change detection  | NLP             |   |            |
 | 19/12/2023 | Guest lecture on semantic change         | CL            |  Dominik Schlechtweg              |       No need     |
 | Winter Break                                   |                |                |            |
@@ -118,6 +118,7 @@ We will select the top-three term papers at the end of the course.
   - M1 Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing
   - M2 [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
   - M3 [Prompt Engineering Guide](https://www.promptingguide.ai/)
+  - M4 Prompt Engineering a Prompt Engineer
 ## Submission Deadlines
 
 - Term paper (preliminary version): 12, March, 2024 (not mandatory)
