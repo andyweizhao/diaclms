@@ -38,8 +38,8 @@ We will select the top-three term papers at the end of the course.
 | 14/11/2023 | No seminar (GaML 2023)            |                |                |            |
 | 21/11/2023 | Large language model:  [Part 1](/attachments/E2_Ke_Ren.pdf)  [Part 2](/attachments/E3_WenzhuoChen.pdf)           | NLP    |     Ke Ren, Wenzhuo Chen           |   E2, E3         |
 | 28/11/2023 | Diachronic language model: [Part 1](/attachments/Chenpei.pdf) [Part 2](/attachments/siqi_he.pdf)      | NLP            |      Siqi He, Chenpei Xie          |    D4, D5        |
-| 05/12/2023 | Prompt engineering for large language model and guest lecture on language model [Part 1](/attachments/prompting_slides_Veerav_Chebrolu.pdf) |NLP             |    Veerav Chebrolu, Hans Martin Ramsl, Xiran Hu|   M1, M4         |
-| 12/12/2023 | Semantic change detection  | NLP             |   |            |
+| 05/12/2023 | Prompt engineering for large language model and guest lecture on language model [Part 1](/attachments/prompting_slides_Veerav_Chebrolu.pdf) [Part 2](/attachments/LLMs-Hans.pdf) [Part 3](/attachments/Prompt-XiranHu.pdf) |NLP             |    Veerav Chebrolu, Hans Martin Ramsl, Xiran Hu|   M1, M4         |
+| 12/12/2023 | Semantic change detection: [Part 1](/attachments/LSC-Katharina.pdf) [Part 2](/attachments/LSC-Blanca.pdf) | NLP             |  Katharina Altrichter, Blanca Birn |    F3, F5        |
 | 19/12/2023 | Guest lecture on semantic change         | CL            |  Dominik Schlechtweg              |       No need     |
 | Winter Break                                   |                |                |            |
 | 09/01/2024 | Syntactic change detection | CL             |                |            |
@@ -80,7 +80,7 @@ We will select the top-three term papers at the end of the course.
   - E2 A Survey of Large Language Models
   - E3 Chatgpt: A meta-analysis after 2.5 months
 - Semantic change detection
-  - F1 Diachronic word embeddings and semantic shifts: a survey
+  - F1 Diachronic word embeddings and semantic shifts: a survey 
   - F2 Outta Control: Laws of Semantic Change and Inherent Biases in Word Representation Models
   - F3 “Cultural shift or linguistic drift? comparing two computational models of semantic change
   - F4 Diachronic word embeddings reveal statistical laws of semantic change
