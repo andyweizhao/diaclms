@@ -40,7 +40,7 @@ We will select the top-three term papers at the end of the course.
 | 28/11/2023 | Diachronic language model: [Part 1](/attachments/Chenpei.pdf) [Part 2](/attachments/siqi_he.pdf)      | NLP            |      Siqi He, Chenpei Xie          |    D4, D5        |
 | 05/12/2023 | Prompt engineering for large language model and guest lecture on language model [Part 1](/attachments/prompting_slides_Veerav_Chebrolu.pdf) [Part 2](/attachments/LLMs-Hans.pdf) [Part 3](/attachments/Prompt-XiranHu.pdf) |NLP             |    Veerav Chebrolu, Hans Martin Ramsl, Xiran Hu|   M1, M4         |
 | 12/12/2023 | Semantic change detection: [Part 1](/attachments/LSC-Katharina.pdf) [Part 2](/attachments/LSC-Blanca.pdf) | NLP             |  Katharina Altrichter, Blanca Birn |    F3, F5        |
-| 19/12/2023 | Guest lecture on semantic change         | CL            |  Dominik Schlechtweg              |       No need     |
+| 19/12/2023 | Guest lecture on semantic change         | CL            |  Dominik Schlechtweg              |       F8, F9     |
 | Winter Break                                   |                |                |            |
 | 09/01/2024 | Syntactic change detection | CL             |                |            |
 | 16/01/2024 | Temporal machine translation| NLP            |                |            |
@@ -87,6 +87,8 @@ We will select the top-three term papers at the end of the course.
   - F5 Grammar and meaning: Analysing the topology of diachronic word embeddings
   - F6 What about Grammar? Using BERT Embeddings to Explore Functional-Semantic Shifts of Semi-Lexical and Grammatical Constructions
   - F7 Linguistic Variation and Change in 250 Years of English Scientific Writing: A Data-Driven Approach
+  - F8 SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection
+  - F9 LSCDiscovery: A shared task on semantic change discovery and detection in Spanish
 - Syntactic change detection
   - G1 Tracing Syntactic Change in the Scientific Genre
   - G2 Detecting Syntactic Change Using a Neural Part-of-Speech Tagger
