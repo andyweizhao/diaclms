@@ -107,6 +107,7 @@ We will select the top-three term papers at the end of the course.
   - H4 Context or No Context? A preliminary exploration of human-in-the-loop approach for Incremental Temporal Summarization in meetings
 - Temporal machine translation
   - I1 A Machine Translation Approach for Modernizing Historical Documents Using Backtranslation
+  - I2 Neural Machine Translation from Historical Japanese to Contemporary Japanese Using Diachronically Domain-Adapted Word Embeddings
 - Reconstructon of historical manuscripts
   - J1 Reconstructing ancient literary texts from noisy manuscripts
   - J2 Restoring and attributing ancient texts using deep neural networks
