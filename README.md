@@ -10,9 +10,12 @@ This seminar series takes place at Heidelberg University on Tuesdays from 15:15 
 In each lecture, there will be two presentations that cover the same topic, but each presenter should choose a different paper or a textbook chapter to prepare his/her presentation. Please make sure to mark your selected papers/chapters in "References" when blocking your time slots.
 
 ## Remote lectures from Jan 9th to Feb 6th
-- Zoom link: https://kta-email.zoom.us/j/97565882219?pwd=OFhIUW43UFl2a0NUSWtEWURkU1d6QT09
-- Meeting ID: 975 6588 2219
-- Passcode: 427190
+- <s>Zoom link: https://kta-email.zoom.us/j/97565882219?pwd=OFhIUW43UFl2a0NUSWtEWURkU1d6QT09</s>
+- <s>Meeting ID: 975 6588 2219</s>
+- <s>Passcode: 427190</s>
+- Zoom link: https://us04web.zoom.us/j/73130080630?pwd=oXfKY7UKzuNri3Aby1piKAPDEsK1qj.1
+- Meeting ID: 731 3008 0630
+- Passcode: 6S7T5D
 
 ## Office Hours
 - Monday 13:00 - 14:00
