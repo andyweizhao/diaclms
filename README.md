@@ -13,9 +13,9 @@ In each lecture, there will be two presentations that cover the same topic, but 
 - <s>Zoom link: https://kta-email.zoom.us/j/97565882219?pwd=OFhIUW43UFl2a0NUSWtEWURkU1d6QT09</s>
 - <s>Meeting ID: 975 6588 2219</s>
 - <s>Passcode: 427190</s>
-- Zoom link: https://us04web.zoom.us/j/73130080630?pwd=oXfKY7UKzuNri3Aby1piKAPDEsK1qj.1
-- Meeting ID: 731 3008 0630
-- Passcode: 6S7T5D
+- Zoom link: https://kta-email.zoom.us/j/92709054859?pwd=R3lLa0I0S3JkdkpUWFdQVVdneUhIQT09
+- Meeting ID: 927 0905 4859
+- Passcode: 412460
 
 ## Office Hours
 - Monday 13:00 - 14:00
