@@ -51,7 +51,7 @@ We will select the top-three term papers at the end of the course.
 | 19/12/2023 | Guest lecture on semantic change: [Part 1](/attachments/231015_LSCD_benchmark-folded.pdf) [Part 2](/attachments/LSC-Discovery-folded.pdf)        | CL            |  Dominik Schlechtweg              |       F8, F9     |
 | Winter Break                                   |                |                |            |
 | 09/01/2024 | Syntactic change detection | CL             |   [Part 1](/attachments/maya-arseven.pdf)  [Part 2](/attachments/hiu-lam-choy.pdf)           |     Maya Arseven, Hiu Lam Choy       | G2, G3
-| 16/01/2024 | Temporal machine translation| NLP            |                |            |
+| 16/01/2024 | Temporal machine translation| NLP            |  [Part 1](/attachments/diachronic_martens.pdf) [Part 2](/attachments/longkim.pdf)           |     Atila Martens, Long Kim      | L1, L2
 | 23/01/2024 | Temporal text summarization       | NLP            |                |            |
 | 30/01/2024 | Reconstruction of historical text         | NLP             |                |            |
 | 06/02/2024 | Temporal misinformation detection        | CSS            |                |            |
