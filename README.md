@@ -52,8 +52,9 @@ We will select the top-three term papers at the end of the course.
 | Winter Break                                   |                |                |            |
 | 09/01/2024 | Syntactic change detection [Part 1](/attachments/maya-arseven.pdf)  [Part 2](/attachments/hiu-lam-choy.pdf) | CL               |     Maya Arseven, Hiu Lam Choy       | G2, G3
 | 16/01/2024 | Temporal machine translation [Part 1](/attachments/diachronic_martens.pdf) [Part 2](/attachments/longkim.pdf)| NLP             |     Atila Martens, Long Kim      | L1, L2
-| 23/01/2024 | Temporal text summarization       | NLP            |                |            |
+| 23/01/2024 | Temporal text summarization  [Part 1](/attachments/Haofang-Fan.pdf)  [Part 2](/attachments/Xinyu_Liang.pdf)     | NLP            |       Xinyu Liang, Haofang Fan         |       H2, H4     |
 | 30/01/2024 | Reconstruction of historical text         | NLP             |                |            |
+| 30/01/2024 | EValuation for Text Generation  (/attachments/diaclms-eval)      | NLP             |       Wei Zhao         |            |
 | 06/02/2024 | Temporal misinformation detection        | CSS            |                |            |
 
 **Note that this timetable will be updated once a week on the day after a weekly lecture ends. Please refer to [the spreedsheet](https://shorturl.at/hRZ01) for ongoing updates (incl., papers to-be-read) when you want to write a paper review and prepare questions.**
