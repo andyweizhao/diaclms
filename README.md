@@ -120,6 +120,8 @@ We will select the top-three term papers at the end of the course.
   - K1 Temporal Graph Analysis of Misinformation Spreaders in Social Media
   - K2 Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection
   - K3 Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity
+  - K4 Generalizing to the future: Mitigating entity bias in fake news detection
+  - K5 Learn over Past, Evolve for Future: Forecasting Temporal Trends for Fake News Detection
 - The Theory of language change
   - L1 [Revisiting the five foundational problems of Weinreich, Labov & Herzog (1968)](DiaCom_problems_ABreitba_R1.pdf)
   - L2 Principles of linguistic change, volume 1: Internal factors
