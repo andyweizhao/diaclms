@@ -31,6 +31,7 @@ In each lecture, there will be two presentations that cover the same topic, but 
 ## Templates for Term Papers
 - Survey paper:  https://www.overleaf.com/read/sqrzdvrcpypx#d593bf
 - Analysis paper: https://www.overleaf.com/read/tpjmjrnnfdvm#adfa83
+  
 The templates include writing hints for each section. No template yet for a position paper; contact me if you want this format. 
 
 ## Language
