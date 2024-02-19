@@ -28,6 +28,11 @@ In each lecture, there will be two presentations that cover the same topic, but 
 - Topic voting for term papers: https://forms.gle/PxJeRZGfftZei4qE9
 - Course webpage at Uni Heidelberg: https://www.cl.uni-heidelberg.de/courses/ws23/diaclms/ 
 
+## Templates for Term Papers
+- Survey paper:  https://www.overleaf.com/read/sqrzdvrcpypx#d593bf
+- Analysis paper: https://www.overleaf.com/read/tpjmjrnnfdvm#adfa83
+The templates include writing hints for each section. No template yet for a position paper; contact me if you want this format. 
+
 ## Language
 The seminar will be held in English.
 
