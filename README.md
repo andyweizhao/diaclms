@@ -38,7 +38,9 @@ The templates include writing hints for each section. No template yet for a posi
 The seminar will be held in English.
 
 ## Best Term Papers
-We will select the top-three term papers at the end of the course.
+- [Language Change in Dialect Continua: A Survey on Diachronic and Diatopic Variation in NLP](attachments/diaclm_ws23_surveypaper_diachronic_diatopic_variation-melis-lydia.pdf)
+- [Exploring Future Work: Using Language Models to Detect Syntactic  Change Over Time](attachments/Arseven_Choy_DiacLM_Paper.pdf)
+- [Experimental Methods for Detecting Phonetic Change Over Time: A Comprehensive Survey](attachments/diaclm_ws23_survey_Siqi_HE.pdf)
 
 ## Program Schedule
 
