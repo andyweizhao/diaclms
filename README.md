@@ -117,6 +117,7 @@ The seminar will be held in English.
   - H2 Improving ROUGE for Timeline Summarization
   - H3 An Evaluation Corpus For Temporal Summarization
   - H4 Context or No Context? A preliminary exploration of human-in-the-loop approach for Incremental Temporal Summarization in meetings
+  - H5 Summarising Historical Text in Modern Languages
 - Temporal machine translation
   - I1 A Machine Translation Approach for Modernizing Historical Documents Using Backtranslation
   - I2 Neural Machine Translation from Historical Japanese to Contemporary Japanese Using Diachronically Domain-Adapted Word Embeddings
