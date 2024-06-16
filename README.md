@@ -64,6 +64,8 @@ The seminar will be held in English.
 | 30/01/2024 | [Reconstruction of historical text](/attachments/tim-kolber.pdf)         | NLP             |      Tim Kolber          |    J1        |
 | 30/01/2024 | [Evaluation for Text Generation](/attachments/diaclms-eval.pdf)      | NLP             |       Wei Zhao         |   -         |
 | 06/02/2024 | Temporal misinformation detection  [Part 1](/attachments/Geng-Zhao.pdf) [Part 2](/attachments/FTTAmir-Ghadanfar.pdf)      | CSS            |      Geng Zhao, Amir Ghadanfar          |      K1, K2      |
+| 11/06/2024 | [Ancient Egyptian Language](/attachments/nlp-for-ancient-egyptian-survey.pdf) | NLP            |   Lisanne Rüh          |   |
+
 
 **Note that this timetable will be updated once a week on the day after a weekly lecture ends. Please refer to [the spreedsheet](https://shorturl.at/hRZ01) for ongoing updates (incl., papers to-be-read) when you want to write a paper review and prepare questions.**
 
