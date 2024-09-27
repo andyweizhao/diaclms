@@ -31,13 +31,14 @@ For the second edition, our aim shifts to group projects on the same subject wit
 
 ## Templates for Term Paper
 - https://www.overleaf.com/1476718452xshrqqpjvkvm#47a63b
+
 The templates include writing hints for each section. Additionally, write a statement to separate the authors' contributions. If you use a writing support tool, please report how and in which sections it is used.
 
 ## Language
 The seminar will be held in English.
 
 ## Topics 
-We will offer 5-6 research topics, as indicated below:
+We will offer 5-8 research topics, as indicated below:
 - topic 1
 - topic 2
 
@@ -54,5 +55,5 @@ We will offer 5-6 research topics, as indicated below:
 - 
 ## Submission Deadlines
 - Term paper (preliminary version): 04, March, 2024
-- Term paper (final version): 19, March, 2024
+- Term paper (final version): 11, March, 2024
 - Topic voting: 
