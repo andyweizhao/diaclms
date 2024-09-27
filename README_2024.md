@@ -2,6 +2,7 @@
 
 This seminar is held by Wei Zhao, Yi Fan
 
+## Overview
 
 Despite huge progress in Large Language Models (LLMs), which have revolutionized the way we consume text-based information through conversational interface, their ability to understand knowledge and language at different points in time from the past to present remains unclear. This capability may seem nascent at first glance, but it has the potential to impact people’s lives at the greatest. For instance, approximately 30% of search engine queries worldwide (over 2 billion Google queries every day) are time-sensitive, making it crucial for LLMs to ensure the temporal relevance of model responses. Additionally, this capability is essential for the automatic induction of previously non-existent low-resource and bilingual dictionaries that reflect language change over time; LLMs, when temporally grounded, would provide a means of dictionary induction to support the EU’s multilingualism policy and globalization efforts beyond the EU. In this course, we will explore the following topics:
 - Evaluating the temporal grounding of LLMs
