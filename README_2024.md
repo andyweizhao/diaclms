@@ -46,8 +46,8 @@ We will offer 5-8 research topics, as indicated below:
 
 | Date       | Topics                            |   
 |------------|-----------------------------------|
-| 15/10/2024 | Course induction and Temporal LLM   
-| 22/10/2024 | Project topics        | 
+| 15/10/2024 | Course induction |    
+| 22/10/2024 | Temporal LLM        | 
 | 17/12/2024 | Mid-term presentation        | 
 | 04/02/2025 | Final presentation        | 
 
