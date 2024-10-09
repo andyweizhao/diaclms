@@ -18,9 +18,6 @@ This seminar course takes place at Heidelberg University on Tuesdays from 15:15 
 
 For the second edition, our aim shifts to group projects on the same subject with a focus on temporal LLMs. The group project tasks include literature reading, idea implementation, experimentation, results analysis and writing a final term paper. 3-5 students work in a group on a novel topic and write a joint paper of 8-10 pages. There will be weekly exchanges with the supervisor, as well as mid-term and final presentation meetings. 
 
-## Remote lectures 
-- do we need them?
-
 ## Contact 
 @gmail.com
 
@@ -37,7 +34,7 @@ The templates include writing hints for each section. Additionally, write a stat
 ## Language
 The seminar will be held in English.
 
-## Topics 
+## Topics (to-be-released on 11 Oct)
 We will offer 5-8 research topics, as indicated below:
 - topic 1
 - topic 2
