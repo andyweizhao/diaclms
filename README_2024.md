@@ -22,7 +22,7 @@ For the second edition, our aim shifts to group projects on the same subject wit
 diachronic.hd@gmail.com
 
 ## Useful Links
-- Join us at Discord: 
+- Join us at Discord: https://discord.gg/FqU8VJ86KS
 - Topic voting for group projects: 
 - Course webpage at Uni Heidelberg: https://www.cl.uni-heidelberg.de/courses/ws24/diaclms/ 
 
