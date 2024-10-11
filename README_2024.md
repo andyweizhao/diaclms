@@ -36,8 +36,8 @@ The seminar will be held in English.
 
 ## Topics (to-be-released on 11 Oct)
 We will offer 5-8 research topics, as indicated below:
-- topic 1
-- topic 2
+- Automatic Dictionary Induction
+- Causality for temporal biases in LLMs
 
 ## Program Schedule
 
