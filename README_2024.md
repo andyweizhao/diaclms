@@ -51,6 +51,5 @@ We will offer 5-8 research topics, as indicated below:
 ## References 
 - 
 ## Submission Deadlines
-- Term paper (preliminary version): 04, March, 2024
-- Term paper (final version): 11, March, 2024
-- Topic voting: 
+- Term paper (preliminary version): 18, March, 2024
+- Term paper (final version): 25, March, 2024
