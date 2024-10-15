@@ -23,7 +23,6 @@ diachronic.hd@gmail.com
 
 ## Useful Links
 - Join us at Discord: https://discord.gg/FqU8VJ86KS
-- Topic voting for group projects: 
 - Course webpage at Uni Heidelberg: https://www.cl.uni-heidelberg.de/courses/ws24/diaclms/ 
 
 ## Templates for Term Paper
