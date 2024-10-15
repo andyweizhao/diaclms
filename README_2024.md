@@ -43,7 +43,7 @@ We will offer 3-5 research topics, as indicated below:
 
 | Date       | Topics                            |   
 |------------|-----------------------------------|
-| 15/10/2024 | Course induction [PART-1](/attachments/lec01-24) [PART-2](/attachments/TempEval4LLMs)|    
+| 15/10/2024 | Course induction [PART-1](/attachments/lec01-24.pdf) [PART-2](/attachments/TempEval4LLMs.pdf)|    
 | 22/10/2024 | Temporal LLM        | 
 | 17/12/2024 | Mid-term presentation        | 
 | 04/02/2025 | Final presentation        | 
@@ -56,6 +56,7 @@ We will offer 3-5 research topics, as indicated below:
 - T2: Jiang, J., Wang, F., Shen, J., Kim, S., & Kim, S. (2024). A Survey on Large Language Models for Code Generation. arXiv preprint arXiv:2406.00515.
 - T2: Fan, L., Liu, J., Liu, Z., Lo, D., Xia, X., & Li, S. (2024). Exploring the capabilities of llms for code change related tasks. arXiv preprint arXiv:2407.02824.
 - T3: Goldman, O., Caciularu, A., Eyal, M., Cao, K., Szpektor, I., & Tsarfaty, R. (2024). Unpacking Tokenization: Evaluating Text Compression and its Correlation with Model Performance.
-## Submission Deadlines
-- Term paper (preliminary version): 18, March, 2024
-- Term paper (final version): 25, March, 2024
+## Deadlines
+- Topic voting: 21, October, 2024
+- Submitting Term paper (preliminary version): 18, March, 2025
+- Submitting Term paper (final version): 25, March, 2025
