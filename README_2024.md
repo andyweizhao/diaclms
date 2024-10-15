@@ -39,7 +39,7 @@ We will offer 3-5 research topics, as indicated below:
 - T2: Temporal code generation
 - T3: Causality for temporal biases in LLMs
 
-## Program Schedule
+## Program Schedule (in-person)
 
 | Date       | Topics                            |   
 |------------|-----------------------------------|
