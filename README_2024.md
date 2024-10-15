@@ -34,10 +34,10 @@ The templates include writing hints for each section. Additionally, write a stat
 ## Language
 The seminar will be held in English.
 
-## Topics (to-be-released on 11 Oct)
+## Topics
 We will offer 5-8 research topics, as indicated below:
-- Automatic Dictionary Induction
-- Causality for temporal biases in LLMs
+- T1: Automatic Dictionary Induction
+- T2: Causality for temporal biases in LLMs
 
 ## Program Schedule
 
@@ -49,7 +49,10 @@ We will offer 5-8 research topics, as indicated below:
 | 04/02/2025 | Final presentation        | 
 
 ## References 
-- 
+- T1: Kokosinskii, D., Kuklin, M., & Arefyev, N. (2024, aug). Deep-change at AXOLOTL-24: Orchestrating WSD and WSI models for semantic change modeling.
+- T1: Lautenschlager, J., Hengchen, S., & Schlechtweg, D. (2024). Detection of non-recorded word senses in English and Swedish.
+- T1: OED (2009). Oxford english dictionary. Online: Oxford University Press
+- T1: Scarlini, B., Pasini, T., & Navigli, R. (2020, Apr.). SensEmBERT: Context-enhanced sense embeddings for multilingual word sense disambiguation. 
 ## Submission Deadlines
 - Term paper (preliminary version): 18, March, 2024
 - Term paper (final version): 25, March, 2024
