@@ -35,9 +35,10 @@ The templates include writing hints for each section. Additionally, write a stat
 The seminar will be held in English.
 
 ## Topics
-We will offer 5-8 research topics, as indicated below:
+We will offer 3-5 research topics, as indicated below:
 - T1: Automatic Dictionary Induction
-- T2: Causality for temporal biases in LLMs
+- T2: Temporal code generation
+- T3: Causality for temporal biases in LLMs
 
 ## Program Schedule
 
@@ -52,7 +53,10 @@ We will offer 5-8 research topics, as indicated below:
 - T1: Kokosinskii, D., Kuklin, M., & Arefyev, N. (2024, aug). Deep-change at AXOLOTL-24: Orchestrating WSD and WSI models for semantic change modeling.
 - T1: Lautenschlager, J., Hengchen, S., & Schlechtweg, D. (2024). Detection of non-recorded word senses in English and Swedish.
 - T1: OED (2009). Oxford english dictionary. Online: Oxford University Press
-- T1: Scarlini, B., Pasini, T., & Navigli, R. (2020, Apr.). SensEmBERT: Context-enhanced sense embeddings for multilingual word sense disambiguation. 
+- T1: Scarlini, B., Pasini, T., & Navigli, R. (2020, Apr.). SensEmBERT: Context-enhanced sense embeddings for multilingual word sense disambiguation.
+- T2: Jiang, J., Wang, F., Shen, J., Kim, S., & Kim, S. (2024). A Survey on Large Language Models for Code Generation. arXiv preprint arXiv:2406.00515.
+- T2: Fan, L., Liu, J., Liu, Z., Lo, D., Xia, X., & Li, S. (2024). Exploring the capabilities of llms for code change related tasks. arXiv preprint arXiv:2407.02824.
+- T3: Goldman, O., Caciularu, A., Eyal, M., Cao, K., Szpektor, I., & Tsarfaty, R. (2024). Unpacking Tokenization: Evaluating Text Compression and its Correlation with Model Performance.
 ## Submission Deadlines
 - Term paper (preliminary version): 18, March, 2024
 - Term paper (final version): 25, March, 2024
