@@ -43,8 +43,8 @@ We will offer 3-5 research topics, as indicated below:
 
 | Date       | Topics                            |   
 |------------|-----------------------------------|
-| 15/10/2024 | Course induction [PART-1](/attachments/lec01-24.pdf) [PART-2](/attachments/TempEval4LLMs.pdf)|    
-| 22/10/2024 | Temporal LLM        | 
+| 15/10/2024 | Course introduction [PART-1](/attachments/lec01-24.pdf) [PART-2](/attachments/TempEval4LLMs.pdf)|    
+| 22/10/2024 | [Automatic dictionary induction](/attachments/lec02-dictionary.pdf)        | 
 | 17/12/2024 | Mid-term presentation        | 
 | 04/02/2025 | Final presentation        | 
 
