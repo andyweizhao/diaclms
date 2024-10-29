@@ -10,7 +10,7 @@ Despite huge progress in Large Language Models (LLMs), which have revolutionized
 - Manipulating LLMs to force model responses to be time-relevant
 - Applications of LLMs in automatic dictionary induction
 
-This course extends upon the first edition of Diachronic Language Models in WS23/24 which previously covered diachronic modeling and analyses of language change over time. Having attended last year’s course edition is helpful but not necessary.
+This course extends upon the first edition of Diachronic Language Models in WS23/24 which previously covered diachronic modeling and analyses of language change over time. <del>Having attended last year’s course edition is helpful but not necessary</del>. <b>Unfortunately, students who took the previous edition of the seminar in WS23/24 are not allowed to register for the current edition, but you are welcome to join as a guest<b>.
 
 This seminar course takes place at Heidelberg University on Tuesdays from 15:15 to 16:45, in INF 329 / SR 26.
 
